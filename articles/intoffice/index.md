@@ -1,6 +1,9 @@
 ###### Written by [eimi](https://instagram.com/miqumi_san)
 ###### 2023-09-02
 
+![download](https://github.com/daveimi/daveimi.github.io/assets/142204660/eed1c561-5f9f-451b-9ec4-922548bed2f1)  
+
+
 # 👋
 Hear me out!  
 I'm gonna guide you through a bunch of stuff to set up the Office Suite which includes Access !  
