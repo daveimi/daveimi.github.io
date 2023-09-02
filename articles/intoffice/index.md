@@ -19,6 +19,17 @@ I'm gonna guide you through a bunch of stuff to set up the Office Suite which in
 
 - Enter the empty folder
 - Double click **`RunMe.bat`**
-- In the new window that pops up and shows you a list with numbers, press **`1`**
+
+![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/365a8922-5989-4baf-a51a-53fc26753743)  
+
+- Allow the popup
+- In the new window that pops up and shows you a list with numbers, press **`1`**  
+  
+![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e2fe03eb-94ee-4540-bc6f-06271f305e78)  
+
+- In the next menu, press **``1``** again  
+
+![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e13e9135-2815-4061-bc4e-77f1d80091a0)
+
 
 ###### DRAFT
