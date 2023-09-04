@@ -22,7 +22,10 @@ I'm gonna guide you through a bunch of stuff to set up the Office Suite which in
 
 ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/365a8922-5989-4baf-a51a-53fc26753743)  
 
-- Allow the popup
+- Allow the popup  
+
+![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/73a6a34c-0477-4d86-a681-fe822c331cc6)  
+  
 - In the new window that pops up and shows you a list with numbers, press **`1`**  
   
 ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e2fe03eb-94ee-4540-bc6f-06271f305e78)  
