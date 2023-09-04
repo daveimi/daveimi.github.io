@@ -33,7 +33,10 @@ I'm gonna guide you through a bunch of stuff to set up the Office Suite which in
 
 - In the next menu, press **``1``** again  
 
-![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e13e9135-2815-4061-bc4e-77f1d80091a0)
+![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e13e9135-2815-4061-bc4e-77f1d80091a0)  
 
+- Allow it to complete \[_**It might take a while!**_\]
+  
+![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/82a8b36b-0c03-4a12-8bfd-8fdc6625ffe5)
 
 ###### DRAFT
