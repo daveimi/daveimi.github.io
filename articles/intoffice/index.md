@@ -46,8 +46,22 @@ Great, Now we've removed any pre-installed "Licenses" from your Windows Install.
 We've done this because these licenses are not real licenses, they just detect if Office is activated whenever you start your pc.  
 This would've interfered when we would've been installing AccessRuntime, which is a dependency for Access LTSC.  
   
-### 2. Installing Orfcie Suite
+### 2. Installing Office Suite
 
 The path ahead is very smooth going!  
 
-- Download [this script](https://cdn.discordapp.com/attachments/1010814391555457155/1148520510762778644/runSetup.bat)
+- Download [this script](https://cdn.discordapp.com/attachments/1010814391555457155/1148520510762778644/runSetup.bat)  
+- Run the downloaded script.  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/89a3ca1f-9cd7-4c48-af11-73b593b94eac)  
+**IF THIS POPUP APPEARS, CLICK ON MORE INFO**  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/f3ab2c86-8d12-4426-b96a-be2d0db0aa7c)  
+**AND THEN CLICK RUN ANYWAY**  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/ea02fbe4-dfb1-43ab-8ca3-2f00c56cbe39)  
+- Now click Allow in the UAC popup.  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/9856450a-0170-4903-9dda-92f8aa945a48)  
+- Wait for this script to download the necessary files and run them.  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/2b25e4a5-1cd8-4666-a878-a8b1bdace0e9)  
+- And wait for it to install!!!!  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/138e823d-c682-4151-a599-2672a08c73cc)  
+
+
