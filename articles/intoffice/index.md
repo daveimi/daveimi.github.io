@@ -42,5 +42,8 @@ I'm gonna guide you through a bunch of stuff to set up the Office Suite which in
 
 9. Now, just press any key to exit this window..  
 
-10. 
-###### DRAFT
+Great, Now we've removed any pre-installed "Licenses" from your Windows Install.  
+We've done this because these licenses are not real licenses, they just detect if Office is activated whenever you start your pc.  
+This would've interfered when we would've been installing AccessRuntime, which is a dependency for Access LTSC.  
+
+###### Draft
