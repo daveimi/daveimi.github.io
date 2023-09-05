@@ -1,13 +1,10 @@
-![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/cc9b2446-945a-4274-8638-9d564776db8e)###### Written by [eimi](https://instagram.com/miqumi_san)
+![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/e278328b-9151-404a-8f1f-74be6ae99eea)###### Written by [eimi](https://instagram.com/miqumi_san)
 ###### 2023-09-02
-
-![access](https://github.com/daveimi/daveimi.github.io/assets/80510430/7866c016-9fdb-4d05-9863-fb565302283a)  
-
-
 
 # 👋
 Hear me out!  
-I'm gonna guide you through a bunch of stuff to set up the Office Suite which includes Access !  
+I'm gonna guide you through a bunch of stuff to set up the Office Suite.  
+The Config file I am providing will also have the Access Runtime! !  
 
 ### 1. Scrubbing Office.
    **MAKE SURE YOU HAVE INTERNET CONNECTION!!**  
@@ -75,7 +72,7 @@ THE FINAL STEP :\)\)\)
 1. Open Start Menu.  
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/e2b65d30-ef9c-4c23-b09d-b88ce8b6c34e)    
 2. Type `powershell` and press **Enter**.  
-   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/e9afd5da-da9f-4f93-9cb5-c1dc9300f3e1)  
+   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/0064d542-cb0f-4a9e-9493-54dc99cb8404)  
 3. Paste `iex "&{$(irm https://massgrave.dev/get)} /HWID /KMS-Office /KMS-ActAndRenewalTask"` into the new window and Press **Enter** (IT MIGHT TAKE A WHILE!)  
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/db0f56ac-6ff4-4b5d-b808-9117fbc0f65f)  
 4. Press Yes in the UAC Prompt.  
