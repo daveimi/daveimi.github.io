@@ -24,18 +24,16 @@ The Config file I am providing will also have the Access Runtime! !
 
   ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/73a6a34c-0477-4d86-a681-fe822c331cc6)  
   
-- In the new window that pops up and shows you a list with numbers, press **`R`**  
-  
-  ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e2fe03eb-94ee-4540-bc6f-06271f305e78)  
+- In the new window that pops up and shows you a list with numbers, press **`1`**  
+
 
 - It will now start scrubbing the previously installed licenses.  
   **IT MIGHT TAKE A WHILE!!!**  
-
-  ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/c4e23d1b-c60d-4268-bb71-97f39cacd188)  
   
-- After completing, it will show this screen.
+- After completing, it will show this screen.  
 
-  ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/609dc64d-f5ff-46e6-b88c-e03616624e6a)  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/0fb5208d-09b9-4d44-8219-f9ab68a71155)  
+
 
 - Now, just press any key to exit this window..
 - After that, run `RunMe.bat` again.
