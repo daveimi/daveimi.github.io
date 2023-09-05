@@ -1,4 +1,4 @@
-![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/e278328b-9151-404a-8f1f-74be6ae99eea)###### Written by [eimi](https://instagram.com/miqumi_san)
+###### Written by [eimi](https://instagram.com/miqumi_san)
 ###### 2023-09-02
 
 # 👋
