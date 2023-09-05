@@ -61,7 +61,8 @@ The path ahead is very smooth going!
   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/9856450a-0170-4903-9dda-92f8aa945a48)  
 - Wait for this script to download the necessary files and run them.  
   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/2b25e4a5-1cd8-4666-a878-a8b1bdace0e9)  
-- And wait for it to install!!!!  
+- And wait for it to install!!!!
+  **it WILL take a lot of time based on your internet speed**  
   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/138e823d-c682-4151-a599-2672a08c73cc)  
 
 
