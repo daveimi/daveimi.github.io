@@ -1,4 +1,4 @@
-###### Written by [eimi](https://instagram.com/miqumi_san)
+![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/cc9b2446-945a-4274-8638-9d564776db8e)###### Written by [eimi](https://instagram.com/miqumi_san)
 ###### 2023-09-02
 
 ![access](https://github.com/daveimi/daveimi.github.io/assets/80510430/7866c016-9fdb-4d05-9863-fb565302283a)  
@@ -64,5 +64,27 @@ The path ahead is very smooth going!
 - And wait for it to install!!!!
   **it WILL take a lot of time based on your internet speed**  
   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/138e823d-c682-4151-a599-2672a08c73cc)  
+- When it is done, it will show this screen.  
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/92d6c07b-7b3f-4b3c-810b-7782cda4489c)
+  
+Close the window, and lets move on to the next step.  
 
+### 3. Activating Office.  
+THE FINAL STEP :\)\)\)  
 
+1. Open Start Menu.  
+   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/e2b65d30-ef9c-4c23-b09d-b88ce8b6c34e)    
+2. Type `powershell` and press **Enter**.  
+   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/e9afd5da-da9f-4f93-9cb5-c1dc9300f3e1)  
+3. Paste `iex "&{$(irm https://massgrave.dev/get)} /HWID /KMS-Office /KMS-ActAndRenewalTask"` into the new window and Press **Enter** (IT MIGHT TAKE A WHILE!)  
+   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/db0f56ac-6ff4-4b5d-b808-9117fbc0f65f)  
+4. Press Yes in the UAC Prompt.  
+   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/fec21c03-12b7-46c0-94f7-248e583617bb)  
+5. This next window will automatically work, no need to do anything, but **WAIT**.
+   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/5be13707-f0a6-47e0-a9b3-1193af0d534f)  
+
+6. After Activation, the black window will close automatically.
+
+### 4. Its complete!
+YEY! now you have all of your office suite installed and activated.....
+Open Start Menu and type the name of any office product and press enter to start the product, e.g. "Access"
