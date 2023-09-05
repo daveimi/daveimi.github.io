@@ -11,32 +11,36 @@ I'm gonna guide you through a bunch of stuff to set up the Office Suite which in
 
 ### 1. Scrub off, Office!
    **MAKE SURE YOU HAVE INTERNET CONNECTION!!**  
-- Download [this](https://cdn.discordapp.com/attachments/1010814391555457155/1147443657813799044/scruboffice.zip)
+1. Download [this](https://cdn.discordapp.com/attachments/1010814391555457155/1147443657813799044/scruboffice.zip)
 
 ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/275c3e06-0734-4214-a1b2-4fd33b8ec14b)  
-- Extract **`scruboffice.zip`** to an empty folder.
+2. Extract **`scruboffice.zip`** to an empty folder.  
 
 ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/3c03e7e9-4bf8-474f-bb5b-fe5e59947fdd)  
 
-- Enter the empty folder
-- Double click **`RunMe.bat`**
+3. Enter the empty folder
+4. Double click **`RunMe.bat`**
 
 ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/365a8922-5989-4baf-a51a-53fc26753743)  
 
-- Allow the popup  
+5. Allow the popup  
 
 ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/73a6a34c-0477-4d86-a681-fe822c331cc6)  
   
-- In the new window that pops up and shows you a list with numbers, press **`1`**  
+6. In the new window that pops up and shows you a list with numbers, press **`R`**  
   
 ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e2fe03eb-94ee-4540-bc6f-06271f305e78)  
 
-- In the next menu, press **``1``** again  
+7. It will now start scrubbing the previously installed licenses.  
+  **IT MIGHT TAKE A WHILE!!!**  
 
-![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/e13e9135-2815-4061-bc4e-77f1d80091a0)  
+![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/c4e23d1b-c60d-4268-bb71-97f39cacd188)  
 
-- Allow it to complete \[_**It might take a while!**_\]
-  
-![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/82a8b36b-0c03-4a12-8bfd-8fdc6625ffe5)
+8. After completing, it will show this screen.
 
+![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/609dc64d-f5ff-46e6-b88c-e03616624e6a)  
+
+9. Now, just press any key to exit this window..  
+
+10. 
 ###### DRAFT
