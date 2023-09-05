@@ -50,7 +50,7 @@ This would've interfered when we would've been installing AccessRuntime, which i
 
 The path ahead is very smooth going!  
 
-- Download [this script](https://cdn.discordapp.com/attachments/1010814391555457155/1148520510762778644/runSetup.bat)  
+- Download [this script](https://cdn.discordapp.com/attachments/1010814391555457155/1148533370368827392/runSetup.bat)  
 - Run the downloaded script.  
   ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/89a3ca1f-9cd7-4c48-af11-73b593b94eac)  
 **IF THIS POPUP APPEARS, CLICK ON MORE INFO**  
