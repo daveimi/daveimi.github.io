@@ -37,7 +37,13 @@ The Config file I am providing will also have the Access Runtime! !
 
   ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/609dc64d-f5ff-46e6-b88c-e03616624e6a)  
 
-- Now, just press any key to exit this window..  
+- Now, just press any key to exit this window..
+- After that, run `RunMe.bat` again.
+- this time, press `1`
+- Press `1` in the next menu again.
+- allow it to complete (might take a while)
+  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/41a4970b-2776-497c-9a68-6438310f59b0)  
+
 
 Great, Now we've removed any pre-installed "Licenses" from your Windows Install.  
 We've done this because these licenses are not real licenses, they just detect if Office is activated whenever you start your pc.  
