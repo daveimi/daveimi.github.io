@@ -81,7 +81,7 @@ THE FINAL STEP :\)\)\)
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/db0f56ac-6ff4-4b5d-b808-9117fbc0f65f)  
 4. Press Yes in the UAC Prompt.  
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/fec21c03-12b7-46c0-94f7-248e583617bb)  
-5. This next window will automatically work, no need to do anything, but **WAIT**.
+5. This next window will automatically work, no need to do anything, but **WAIT**.  
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/5be13707-f0a6-47e0-a9b3-1193af0d534f)  
 
 6. After Activation, the black window will close automatically.
