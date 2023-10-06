@@ -25,6 +25,7 @@ The Config file I am providing will also have the Access Runtime! !
   ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/73a6a34c-0477-4d86-a681-fe822c331cc6)  
   
 - In the new window that pops up and shows you a list with numbers, press **`1`**  
+- and press **`1`** again!  
 
 
 - It will now start scrubbing the previously installed licenses.  
