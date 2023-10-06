@@ -78,7 +78,7 @@ THE FINAL STEP :\)\)\)
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/e2b65d30-ef9c-4c23-b09d-b88ce8b6c34e)    
 2. Type `powershell` and press **Enter**.  
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/0064d542-cb0f-4a9e-9493-54dc99cb8404)  
-3. Paste `iex "&{$(irm https://massgrave.dev/get)} /HWID /KMS-Office /KMS-ActAndRenewalTask"` into the new window and Press **Enter** (IT MIGHT TAKE A WHILE!)  
+3. Paste `& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /Ohook` into the new window and Press **Enter** (IT MIGHT TAKE A WHILE!)  
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/db0f56ac-6ff4-4b5d-b808-9117fbc0f65f)  
 4. Press Yes in the UAC Prompt.  
    ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/fec21c03-12b7-46c0-94f7-248e583617bb)  
