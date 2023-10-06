@@ -24,24 +24,7 @@ The Config file I am providing will also have the Access Runtime! !
 
   ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/73a6a34c-0477-4d86-a681-fe822c331cc6)  
   
-- In the new window that pops up and shows you a list with numbers, press **`1`**  
-- and press **`1`** again!  
-
-
-- It will now start scrubbing the previously installed licenses.  
-  **IT MIGHT TAKE A WHILE!!!**  
-  
-- After completing, it will show this screen.  
-
-  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/0fb5208d-09b9-4d44-8219-f9ab68a71155)  
-
-
-- Now, just press any key to exit this window..
-- After that, run `RunMe.bat` again.
-- this time, press `1`
-- Press `1` in the next menu again.
-- allow it to complete (might take a while)  
-  ![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/41a4970b-2776-497c-9a68-6438310f59b0)  
+- In the new window that pops up and shows you a list with numbers, press **`R`**  
 
 
 Great, Now we've removed any pre-installed "Licenses" from your Windows Install.  
