@@ -15,7 +15,7 @@ The Config file I am providing will also have the Access Runtime! !
 
   ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/3c03e7e9-4bf8-474f-bb5b-fe5e59947fdd)  
 
-- Enter the empty folder
+- Enter the folder
 - Double click **`RunMe.bat`**
 
   ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/365a8922-5989-4baf-a51a-53fc26753743)  
@@ -25,7 +25,12 @@ The Config file I am providing will also have the Access Runtime! !
   ![image](https://github.com/daveimi/daveimi.github.io/assets/142204660/73a6a34c-0477-4d86-a681-fe822c331cc6)  
   
 - In the new window that pops up and shows you a list with numbers, press **`R`**  
+![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/b6dbe87a-34fd-4183-ac1e-7521a89ab8e4)  
 
+it will now scrub off all previous office licenses. This is neccesary for ReActivating Office.  
+  
+- After it has completed, it will show this screen!  
+![image](https://github.com/daveimi/daveimi.github.io/assets/80510430/437be2c4-bd06-4f5a-bf68-8a484bad7963)  
 
 Great, Now we've removed any pre-installed "Licenses" from your Windows Install.  
 We've done this because these licenses are not real licenses, they just detect if Office is activated whenever you start your pc.  
