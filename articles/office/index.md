@@ -1,3 +1,7 @@
+<!-- WE DID IT GUYS!!!!
+SOMEHOW WE MANAGED TO SNUCK IN A GITHUB DISCUSSIONS BASED COMMENT SECTION
+NOICEEEE -->  
+
 ###### Written by [eimi](https://instagram.com/miqumi_san)
 ###### 2023-09-02
 
@@ -76,8 +80,10 @@ THE FINAL STEP :\)\)\)
 6. After Activation, the black window will close automatically.
 
 ### 4. Its complete!
-YEY! now you have all of your office suite installed and activated.....
-Open Start Menu and type the name of any office product and press enter to start the product, e.g. "Access"
+YEY! now you have all of your office suite installed and activated.....  
+Open Start Menu and type the name of any office product and press enter to start the product, e.g. "Access"  
+
+<!-- comment section -->  
 
 <script src="https://giscus.app/client.js"
         data-repo="daveimi/daveimi.github.io"
