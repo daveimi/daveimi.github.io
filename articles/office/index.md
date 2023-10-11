@@ -78,3 +78,19 @@ THE FINAL STEP :\)\)\)
 ### 4. Its complete!
 YEY! now you have all of your office suite installed and activated.....
 Open Start Menu and type the name of any office product and press enter to start the product, e.g. "Access"
+
+<script src="https://giscus.app/client.js"
+        data-repo="daveimi/daveimi.github.io"
+        data-repo-id="R_kgDOKG2XsQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOKG2Xsc4CaCH5"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
